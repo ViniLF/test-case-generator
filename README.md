@@ -36,7 +36,7 @@ test-case-generator/
 
 ### 1. Clonar o repositório
 ```bash
-git clone <seu-repositorio>
+git clone https://github.com/ViniLF/test-case-generator.git
 cd test-case-generator
 ```
 
@@ -116,8 +116,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👤 Autor
 
 **Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
+- GitHub: [@seu-usuario](https://github.com/ViniLF)
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/viniciuslucasfaria/)
 
 ---
 
