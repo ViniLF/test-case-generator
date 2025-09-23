@@ -115,9 +115,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👤 Autor
 
-**Seu Nome**
+**ViniLF**
 - GitHub: [@ViniLF](https://github.com/ViniLF)
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/viniciuslucasfaria/)
+- LinkedIn: [Vinícius Lucas](https://www.linkedin.com/in/viniciuslucasfaria/)
 
 ---
 
